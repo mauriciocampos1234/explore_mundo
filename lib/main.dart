@@ -84,7 +84,7 @@ class MyApp extends StatelessWidget {
     );
 
     return MaterialApp(
-      title: 'Agência de Viagens',
+      title: 'Flutter layout demo',
       home: Scaffold(
         
         body: ListView(
